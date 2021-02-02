@@ -54,3 +54,17 @@ for (mun in unique(raismun_2019$Município)) {
 }
 
 
+wage_gaps$Mun <- rownames(wage_gaps)
+
+is.num <- sapply(wage_gaps, is.numeric)
+wage_gaps[is.num] <- lapply(wage_gaps[is.num], round, 8)
+
+write_csv(
+  wage_gaps,
+  'd:/Users/lucas.dias/Desktop/wage_gaps.csv',
+)
+
+
+
+
+
