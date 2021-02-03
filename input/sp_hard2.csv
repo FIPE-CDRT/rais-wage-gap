@@ -1,0 +1,646 @@
+code,name
+350910,Caiua
+351100,Castilho
+351440,Dracena
+351530,Estrela do Norte
+351535,Euclides da Cunha Paulista
+352870,Maraba Paulista
+353020,Mirante do Paranapanema
+353160,Monte Castelo
+353220,Narandiba
+353310,Nova Guataporanga
+353480,Ouro Verde
+353540,Panorama
+353640,Pauliceia
+353830,Piquerobi
+354120,Presidente Bernardes
+354130,Presidente Epitacio
+354150,Presidente Venceslau
+354323,Ribeirao dos Indios
+354425,Rosana
+354550,Sandovalina
+354710,Santa Mercedes
+354770,Santo Anastacio
+354930,Sao Joao do Pau d'Alho
+355390,Tarabai
+355430,Teodoro Sampaio
+355510,Tupi Paulista
+350010,Adamantina
+350020,Adolfo
+350030,Aguai
+350040,Aguas da Prata
+350050,Aguas de Lindoia
+350055,Aguas de Santa Barbara
+350060,Aguas de Sao Pedro
+350070,Agudos
+350075,Alambari
+350090,Altair
+350100,Altinopolis
+350110,Alto Alegre
+350115,Aluminio
+350120,Alvares Florence
+350140,Alvaro de Carvalho
+350150,Alvinlandia
+350160,Americana
+350170,Americo Brasiliense
+350180,Americo de Campos
+350190,Amparo
+350200,Analandia
+350220,Angatuba
+350230,Anhembi
+350250,Aparecida
+350260,Aparecida d'Oeste
+350270,Apiai
+350275,Aracariguama
+350280,Aracatuba
+350290,Aracoiaba da Serra
+350300,Aramina
+350310,Arandu
+350315,Arapei
+350320,Araraquara
+350330,Araras
+350335,Arco-Iris
+350340,Arealva
+350350,Areias
+350360,Areiopolis
+350370,Ariranha
+350380,Artur Nogueira
+350390,Aruja
+350395,Aspasia
+350400,Assis
+350410,Atibaia
+350420,Auriflama
+350430,Avai
+350440,Avanhandava
+350450,Avare
+350460,Bady Bassitt
+350470,Balbinos
+350480,Balsamo
+350490,Bananal
+350500,Barao de Antonina
+350510,Barbosa
+350520,Bariri
+350530,Barra Bonita
+350535,Barra do Chapeu
+350540,Barra do Turvo
+350550,Barretos
+350560,Barrinha
+350570,Barueri
+350580,Bastos
+350590,Batatais
+350600,Bauru
+350610,Bebedouro
+350620,Bento de Abreu
+350630,Bernardino de Campos
+350635,Bertioga
+350640,Bilac
+350650,Birigui
+350660,Biritiba Mirim
+350670,Boa Esperanca do Sul
+350680,Bocaina
+350690,Bofete
+350700,Boituva
+350710,Bom Jesus dos Perdoes
+350715,Bom Sucesso de Itarare
+350720,Bora
+350730,Boraceia
+350740,Borborema
+350745,Borebi
+350750,Botucatu
+350760,Braganca Paulista
+350770,Brauna
+350775,Brejo Alegre
+350780,Brodowski
+350790,Brotas
+350800,Buri
+350810,Buritama
+350820,Buritizal
+350830,Cabralia Paulista
+350840,Cabreuva
+350850,Cacapava
+350860,Cachoeira Paulista
+350870,Caconde
+350880,Cafelandia
+350890,Caiabu
+350900,Caieiras
+350920,Cajamar
+350925,Cajati
+350930,Cajobi
+350940,Cajuru
+350945,Campina do Monte Alegre
+350950,Campinas
+350960,Campo Limpo Paulista
+350970,Campos do Jordao
+350980,Campos Novos Paulista
+350990,Cananeia
+350995,Canas
+351000,Candido Mota
+351010,Candido Rodrigues
+351015,Canitar
+351020,Capao Bonito
+351030,Capela do Alto
+351040,Capivari
+351050,Caraguatatuba
+351060,Carapicuiba
+351070,Cardoso
+351080,Casa Branca
+351090,Cassia dos Coqueiros
+351110,Catanduva
+351120,Catigua
+351130,Cedral
+351140,Cerqueira Cesar
+351150,Cerquilho
+351160,Cesario Lange
+351170,Charqueada
+351190,Clementina
+351200,Colina
+351210,Colombia
+351220,Conchal
+351230,Conchas
+351240,Cordeiropolis
+351250,Coroados
+351260,Coronel Macedo
+351270,Corumbatai
+351280,Cosmopolis
+351290,Cosmorama
+351300,Cotia
+351310,Cravinhos
+351320,Cristais Paulista
+351330,Cruzalia
+351340,Cruzeiro
+351350,Cubatao
+351360,Cunha
+351370,Descalvado
+351380,Diadema
+351385,Dirce Reis
+351390,Divinolandia
+351400,Dobrada
+351410,Dois Corregos
+351420,Dolcinopolis
+351430,Dourado
+351450,Duartina
+351460,Dumont
+351470,Echapora
+351480,Eldorado
+351490,Elias Fausto
+351492,Elisiario
+351495,Embauba
+351500,Embu das Artes
+351510,Embu-Guacu
+351515,Engenheiro Coelho
+351518,Espirito Santo do Pinhal
+351519,Espirito Santo do Turvo
+351520,Estrela d'Oeste
+351540,Fartura
+351550,Fernandopolis
+351560,Fernando Prestes
+351565,Fernao
+351570,Ferraz de Vasconcelos
+351590,Floreal
+351600,Florida Paulista
+351610,Florinea
+351620,Franca
+351630,Francisco Morato
+351640,Franco da Rocha
+351650,Gabriel Monteiro
+351660,Galia
+351670,Garca
+351680,Gastao Vidigal
+351685,Gaviao Peixoto
+351690,General Salgado
+351700,Getulina
+351710,Glicerio
+351720,Guaicara
+351730,Guaimbe
+351740,Guaira
+351750,Guapiacu
+351760,Guapiara
+351770,Guara
+351790,Guaraci
+351800,Guarani d'Oeste
+351810,Guaranta
+351820,Guararapes
+351830,Guararema
+351840,Guaratingueta
+351850,Guarei
+351860,Guariba
+351870,Guaruja
+351880,Guarulhos
+351885,Guatapara
+351890,Guzolandia
+351900,Herculandia
+351905,Holambra
+351907,Hortolandia
+351910,Iacanga
+351920,Iacri
+351925,Iaras
+351930,Ibate
+351940,Ibira
+351950,Ibirarema
+351960,Ibitinga
+351970,Ibiuna
+351980,Icem
+351990,Iepe
+352000,Igaracu do Tiete
+352010,Igarapava
+352020,Igarata
+352030,Iguape
+352040,Ilhabela
+352042,Ilha Comprida
+352050,Indaiatuba
+352060,Indiana
+352070,Indiapora
+352080,Inubia Paulista
+352090,Ipaussu
+352100,Ipero
+352110,Ipeuna
+352115,Ipigua
+352120,Iporanga
+352130,Ipua
+352140,Iracemapolis
+352150,Irapua
+352170,Itabera
+352180,Itai
+352190,Itajobi
+352200,Itaju
+352210,Itanhaem
+352215,Itaoca
+352220,Itapecerica da Serra
+352230,Itapetininga
+352240,Itapeva
+352250,Itapevi
+352260,Itapira
+352265,Itapirapua Paulista
+352270,Itapolis
+352280,Itaporanga
+352290,Itapui
+352310,Itaquaquecetuba
+352320,Itarare
+352330,Itariri
+352340,Itatiba
+352350,Itatinga
+352360,Itirapina
+352370,Itirapua
+352380,Itobi
+352390,Itu
+352400,Itupeva
+352410,Ituverava
+352420,Jaborandi
+352430,Jaboticabal
+352440,Jacarei
+352450,Jaci
+352460,Jacupiranga
+352470,Jaguariuna
+352480,Jales
+352490,Jambeiro
+352500,Jandira
+352510,Jardinopolis
+352520,Jarinu
+352530,Jau
+352540,Jeriquara
+352550,Joanopolis
+352560,Joao Ramalho
+352570,Jose Bonifacio
+352580,Julio Mesquita
+352585,Jumirim
+352590,Jundiai
+352610,Juquia
+352620,Juquitiba
+352630,Lagoinha
+352640,Laranjal Paulista
+352650,Lavinia
+352660,Lavrinhas
+352670,Leme
+352680,Lencois Paulista
+352690,Limeira
+352700,Lindoia
+352710,Lins
+352720,Lorena
+352725,Lourdes
+352730,Louveira
+352740,Lucelia
+352750,Lucianopolis
+352760,Luis Antonio
+352770,Luiziania
+352780,Lupercio
+352790,Lutecia
+352800,Macatuba
+352810,Macaubal
+352820,Macedonia
+352830,Magda
+352840,Mairinque
+352850,Mairipora
+352860,Manduri
+352880,Maracai
+352885,Marapoama
+352890,Mariapolis
+352900,Marilia
+352910,Marinopolis
+352920,Martinopolis
+352930,Matao
+352940,Maua
+352950,Mendonca
+352960,Meridiano
+352965,Mesopolis
+352970,Miguelopolis
+352980,Mineiros do Tiete
+352990,Miracatu
+353000,Mira Estrela
+353010,Mirandopolis
+353030,Mirassol
+353040,Mirassolandia
+353050,Mococa
+353060,Mogi das Cruzes
+353070,Mogi Guacu
+353080,Mogi Mirim
+353090,Mombuca
+353100,Moncoes
+353110,Mongagua
+353120,Monte Alegre do Sul
+353130,Monte Alto
+353140,Monte Aprazivel
+353150,Monte Azul Paulista
+353170,Monteiro Lobato
+353180,Monte Mor
+353190,Morro Agudo
+353200,Morungaba
+353205,Motuca
+353210,Murutinga do Sul
+353215,Nantes
+353230,Natividade da Serra
+353240,Nazare Paulista
+353250,Neves Paulista
+353260,Nhandeara
+353270,Nipoa
+353280,Nova Alianca
+353282,Nova Campina
+353284,Nova Canaa Paulista
+353286,Nova Castilho
+353290,Nova Europa
+353300,Nova Granada
+353325,Novais
+353330,Nova Luzitania
+353340,Nova Odessa
+353350,Novo Horizonte
+353360,Nuporanga
+353370,Ocaucu
+353380,Oleo
+353390,Olimpia
+353400,Onda Verde
+353410,Oriente
+353420,Orindiuva
+353430,Orlandia
+353440,Osasco
+353450,Oscar Bressane
+353460,Osvaldo Cruz
+353470,Ourinhos
+353475,Ouroeste
+353490,Pacaembu
+353500,Palestina
+353510,Palmares Paulista
+353520,Palmeira d'Oeste
+353530,Palmital
+353550,Paraguacu Paulista
+353560,Paraibuna
+353570,Paraiso
+353580,Paranapanema
+353590,Paranapua
+353600,Parapua
+353610,Pardinho
+353620,Pariquera-Acu
+353625,Parisi
+353630,Patrocinio Paulista
+353650,Paulinia
+353657,Paulistania
+353660,Paulo de Faria
+353670,Pederneiras
+353680,Pedra Bela
+353690,Pedranopolis
+353700,Pedregulho
+353710,Pedreira
+353715,Pedrinhas Paulista
+353720,Pedro de Toledo
+353730,Penapolis
+353740,Pereira Barreto
+353750,Pereiras
+353760,Peruibe
+353770,Piacatu
+353780,Piedade
+353790,Pilar do Sul
+353800,Pindamonhangaba
+353810,Pindorama
+353820,Pinhalzinho
+353850,Piquete
+353860,Piracaia
+353870,Piracicaba
+353880,Piraju
+353890,Pirajui
+353900,Pirangi
+353910,Pirapora do Bom Jesus
+353930,Pirassununga
+353940,Piratininga
+353950,Pitangueiras
+353960,Planalto
+353970,Platina
+353980,Poa
+353990,Poloni
+354000,Pompeia
+354010,Pongai
+354020,Pontal
+354025,Pontalinda
+354030,Pontes Gestal
+354040,Populina
+354050,Porangaba
+354060,Porto Feliz
+354070,Porto Ferreira
+354075,Potim
+354080,Potirendaba
+354085,Pracinha
+354090,Pradopolis
+354100,Praia Grande
+354105,Pratania
+354110,Presidente Alves
+354160,Promissao
+354165,Quadra
+354170,Quata
+354180,Queiroz
+354190,Queluz
+354200,Quintana
+354210,Rafard
+354220,Rancharia
+354230,Redencao da Serra
+354240,Regente Feijo
+354250,Reginopolis
+354260,Registro
+354270,Restinga
+354280,Ribeira
+354290,Ribeirao Bonito
+354300,Ribeirao Branco
+354310,Ribeirao Corrente
+354320,Ribeirao do Sul
+354325,Ribeirao Grande
+354330,Ribeirao Pires
+354340,Ribeirao Preto
+354350,Riversul
+354360,Rifaina
+354370,Rincao
+354380,Rinopolis
+354390,Rio Claro
+354400,Rio das Pedras
+354410,Rio Grande da Serra
+354420,Riolandia
+354430,Roseira
+354440,Rubiacea
+354450,Rubineia
+354460,Sabino
+354470,Sagres
+354480,Sales
+354490,Sales Oliveira
+354500,Salesopolis
+354510,Salmourao
+354515,Saltinho
+354520,Salto
+354530,Salto de Pirapora
+354540,Salto Grande
+354560,Santa Adelia
+354570,Santa Albertina
+354580,Santa Barbara d'Oeste
+354600,Santa Branca
+354610,Santa Clara d'Oeste
+354620,Santa Cruz da Conceicao
+354625,Santa Cruz da Esperanca
+354630,Santa Cruz das Palmeiras
+354640,Santa Cruz do Rio Pardo
+354650,Santa Ernestina
+354660,Santa Fe do Sul
+354670,Santa Gertrudes
+354680,Santa Isabel
+354690,Santa Lucia
+354700,Santa Maria da Serra
+354720,Santana da Ponte Pensa
+354730,Santana de Parnaiba
+354740,Santa Rita d'Oeste
+354750,Santa Rita do Passa Quatro
+354760,Santa Rosa de Viterbo
+354765,Santa Salete
+354780,Santo Andre
+354790,Santo Antonio da Alegria
+354800,Santo Antonio de Posse
+354805,Santo Antonio do Aracangua
+354810,Santo Antonio do Jardim
+354820,Santo Antonio do Pinhal
+354840,Santopolis do Aguapei
+354850,Santos
+354860,Sao Bento do Sapucai
+354870,Sao Bernardo do Campo
+354880,Sao Caetano do Sul
+354890,Sao Carlos
+354900,Sao Francisco
+354910,Sao Joao da Boa Vista
+354920,Sao Joao das Duas Pontes
+354925,Sao Joao de Iracema
+354940,Sao Joaquim da Barra
+354950,Sao Jose da Bela Vista
+354960,Sao Jose do Barreiro
+354970,Sao Jose do Rio Pardo
+354980,Sao Jose do Rio Preto
+354990,Sao Jose dos Campos
+354995,Sao Lourenco da Serra
+355000,Sao Luiz do Paraitinga
+355010,Sao Manuel
+355020,Sao Miguel Arcanjo
+355030,Sao Paulo
+355040,Sao Pedro
+355050,Sao Pedro do Turvo
+355060,Sao Roque
+355070,Sao Sebastiao
+355080,Sao Sebastiao da Grama
+355090,Sao Simao
+355100,Sao Vicente
+355110,Sarapui
+355120,Sarutaia
+355130,Sebastianopolis do Sul
+355140,Serra Azul
+355150,Serrana
+355160,Serra Negra
+355170,Sertaozinho
+355180,Sete Barras
+355190,Severinia
+355200,Silveiras
+355210,Socorro
+355220,Sorocaba
+355230,Sud Mennucci
+355240,Sumare
+355250,Suzano
+355255,Suzanapolis
+355260,Tabapua
+355270,Tabatinga
+355280,Taboao da Serra
+355300,Taguai
+355310,Taiacu
+355320,Taiuva
+355330,Tambau
+355340,Tanabi
+355350,Tapirai
+355360,Tapiratiba
+355365,Taquaral
+355370,Taquaritinga
+355380,Taquarituba
+355385,Taquarivai
+355395,Taruma
+355400,Tatui
+355410,Taubate
+355420,Tejupa
+355440,Terra Roxa
+355450,Tiete
+355460,Timburi
+355465,Torre de Pedra
+355470,Torrinha
+355475,Trabiju
+355480,Tremembe
+355490,Tres Fronteiras
+355495,Tuiuti
+355500,Tupa
+355520,Turiuba
+355530,Turmalina
+355535,Ubarana
+355540,Ubatuba
+355550,Ubirajara
+355560,Uchoa
+355570,Uniao Paulista
+355580,Urania
+355590,Uru
+355600,Urupes
+355610,Valentim Gentil
+355620,Valinhos
+355630,Valparaiso
+355635,Vargem
+355640,Vargem Grande do Sul
+355645,Vargem Grande Paulista
+355650,Varzea Paulista
+355660,Vera Cruz
+355670,Vinhedo
+355680,Viradouro
+355690,Vista Alegre do Alto
+355695,Vitoria Brasil
+355700,Votorantim
+355710,Votuporanga
+355715,Zacarias
+355720,Chavantes
+355730,Estiva Gerbi
+350080,Alfredo Marcondes
+350130,Alvares Machado
+350210,Andradina
+350240,Anhumas
+351512,Emilianopolis
+351580,Flora Rica
+351780,Guaracai
+352044,Ilha Solteira
+352160,Irapuru
+352300,Itapura
+352600,Junqueiropolis
+353320,Nova Independencia
+353920,Pirapozinho
+354140,Presidente Prudente
+354830,Santo Expedito
+355290,Taciba
