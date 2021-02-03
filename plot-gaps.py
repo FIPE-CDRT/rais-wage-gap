@@ -31,9 +31,9 @@ fig.add_trace(go.Choropleth(geojson = mapa_mun_sp,
                             locations = wage_gaps['Mun'],
                             z = wage_gaps['gap_negros'],
                             colorscale = "Viridis",
-                            colorbar_title = "Diferença \n (log salário/hora)",
-                            marker_line_color = 'darkgray',
-                            marker_line_width = 0.5))
+                            colorbar_title = "Diferença salarial <br> (negros - brancos)",
+                            marker_line_color = 'white',
+                            marker_line_width = 0.8))
 
 fig.update_layout(
     title_text = 'Gap Salarial entre Negros e Brancos',
@@ -70,9 +70,9 @@ fig.add_trace(go.Choropleth(geojson = mapa_mun_sp,
                             locations = wage_gaps['Mun'],
                             z = wage_gaps['gap_mulheres'],
                             colorscale = "Viridis",
-                            colorbar_title = "Diferença \n (log salário/hora)",
-                            marker_line_color = 'darkgray',
-                            marker_line_width = 0.5))
+                            colorbar_title = "Diferença salarial <br> (mulheres - homens)",
+                            marker_line_color = 'white',
+                            marker_line_width = 0.8))
 
 fig.update_layout(
     title_text = 'Gap Salarial entre Mulheres e Homens',
@@ -95,7 +95,3 @@ fig.update_geos(fitbounds = 'locations',
 
 fig.write_html("tmp/gap_genero.html",
                include_plotlyjs="cdn")
-
-
-
-
