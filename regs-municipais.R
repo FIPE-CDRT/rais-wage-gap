@@ -59,9 +59,18 @@ wage_gaps$Mun <- rownames(wage_gaps)
 is.num <- sapply(wage_gaps, is.numeric)
 wage_gaps[is.num] <- lapply(wage_gaps[is.num], round, 8)
 
+
+p_valor <- 0.10
+
+wage_gaps <- wage_gaps %>% 
+  mutate(gap_negros = replace(gap_negros, p_valor_negros > p_valor, 0),
+         gap_mulheres = replace(gap_mulheres, p_valor_mulheres > p_valor, 0))
+
+
+
 write_csv(
   wage_gaps,
-  'd:/Users/lucas.dias/Desktop/wage_gaps.csv',
+  'tmp/wage_gaps.csv',
 )
 
 
